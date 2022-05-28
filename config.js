@@ -1,11 +1,11 @@
 /**
  * Base By Dika Ardnt.
- * Recode By GuaAbuzz
+ * Recode By SuryaOFC
  * Sc Ya Gua Enc
  * Harga Sc No Enc 20k
  * Kalau Mau Recode, Edit Aja Di confiq.js
- * Contact Me On wa.me/6289636827082
- * Follow https://github.com/Abuzzpoet
+ * Contact Me On wa.me/6285856248705
+ * Follow https://github.com/Surya-Ganz
  */
 
 //gausah di apa² in!
@@ -26,35 +26,35 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'AsunaChan'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'AXE BOTz'
+global.namaowner = 'SuryaOFC'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6285856248705']
+global.premium = ['6285856248705']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['6285856248705']
 global.xl = ['-']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['-']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['6285856248705']
+global.dana = ['6285856248705']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.scbot = 'https://github.com/Abuzzpoet/Asuna'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/Surya-Ganz'
+global.scbot = 'https://github.com/Surya-Ganz/botwa18'
+global.myweb = 'https://tiktok.com/@Fanny Tiktok'
 
 //—————「 Set Wm 」—————//
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'SuryaOFC'
+global.author = 'AXE BOTz WA'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -87,9 +87,9 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 20,
+    free: 50,
     monayawal: 1000
-}
+} 
 global.rpg = {
     darahawal: 100,
     besiawal: 15,
